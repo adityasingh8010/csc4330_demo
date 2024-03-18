@@ -9,7 +9,7 @@ This is a simple Todo application built off Django (including the Django REST Fr
 ## Getting started
 1. Clone the project to your machine ```[git clone https://github.com/Jordanirabor/django-todo-react]```
 2. Navigate into the diretory ```[cd django-todo-react]```
-3. Source the virtual environment ```[pipenv shell]``` or install django, django rest framework and corsheader with or without a virtual enviroment setup
+3. Source the virtual environment ```[pipenv shell]``` or skip step 3 aand 4 and install django, django rest framework and corsheader with or without a virtual enviroment setup
 4. Install the dependencies ```[pipenv install]```
 5. Navigate into the frontend directory ```[cd frontend]```
 5. Install the dependencies ```[npm install]```
